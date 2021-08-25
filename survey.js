@@ -1,5 +1,5 @@
 /*
-a quick survey app which asks the user a bunch of questions like their 
+A quick survey app which asks the user a bunch of questions like their 
 favourite music, activity, food, sport, etc. 
 It will then generate a profile description for them to use online.
 */
@@ -53,16 +53,16 @@ and is amazing at ${answers[6]}.`);
 });
 
 /*
-What's your name? Nicknames are also acceptable :) Sharon
+What's your name? Nicknames are also acceptable :) Sher
 What's an activity you like doing? playing the piano
-What do you listen to while doing that? my music
+What do you listen to while doing that? Amazing Grace
 Which meal is your favourite (eg: dinner, brunch, etc.) dinner
 What's your favourite thing to eat for that meal? beef stew
 Which sport is your absolute favourite? football
 What is your superpower? In a few words, tell us what you are amazing at! sleeping
 
 Thank you for your valuable feedback:
-Sharon loves playing the piano while singing Let It Go,
+Sher loves playing the piano while singing Amazing Grace,
 beef stew for dinner, prefers football over any other sport,
 and is amazing at sleeping.
 */
